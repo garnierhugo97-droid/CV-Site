@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 0 20px;
+  color: #222;
+  line-height: 1.6;
+}
+
+header {
+  margin-bottom: 40px;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+.job-title {
+  color: #555;
+}
+
+section {
+  margin-bottom: 30px;
+}
+
+h2 {
+  font-size: 20px;
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 10px;
+}
+
+h3 {
+  margin-top: 15px;
+}
+
+.date {
+  font-size: 14px;
+  color: #666;
+}
+
+ul {
+  margin-left: 20px;
+}
